@@ -1,4 +1,4 @@
-# DataScience-Projects
+# Churn Rate Prediction:
 Data Science Project : Churn rate prediction
 The Churn rate prediction for Telecom industry is analyzed. The dataset is acquired from Kaggle.
 
